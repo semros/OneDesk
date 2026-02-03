@@ -63,13 +63,21 @@ An interactive **Streamlit** dashboard enables non-technical stakeholders to:
 **Project Structure**
 
 OneDesk/
+
 │
+
 ├── data/                # Sample or anonymized datasets
+
 ├── notebooks/           # EDA and experimentation notebooks
+
 ├── src/                 # Data processing and modeling scripts
+
 ├── models/              # Saved trained models
+
 ├── app/                 # Streamlit dashboard app
+
 ├── requirements.txt     # Dependencies
+
 └── README.md
 
 **Key Outcomes**

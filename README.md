@@ -41,7 +41,7 @@ Customer support teams manage thousands of tickets with varying complexity and r
  - R² Score
  - Cross-validation for model robustness
    
-**4. Dashboard Application**
+**4. Dashboard Application** (to be added soon)
 
 An interactive **Streamlit** dashboard enables non-technical stakeholders to:
 - Monitor ticket trends and workload
